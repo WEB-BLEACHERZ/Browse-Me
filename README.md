@@ -15,7 +15,7 @@ To get started with Browse-me, follow these steps:
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/browse-me.git
+   gh repo clone WEB-BLEACHERZ/Browse-Me
    ```
 2. **Navigate to the project directory:**
    ```sh
